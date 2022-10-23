@@ -6,7 +6,7 @@
 
 1、系统架构设计师相关电子书籍共 71 本：
 
-![image-20221023213647920](https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/202210232136974.png)
+<img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/202210222230479.png" alt="image-20221022223033387" style="zoom: 33%;" />
 
 2、09~18 年 10 年真题：
 
