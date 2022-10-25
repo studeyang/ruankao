@@ -34,11 +34,11 @@
 
 ## 领取方式
 
-通过公众号：dbses cn 回复“系统架构师资料”即可领取。
+通过公众号：【杨同学 technotes】回复“系统架构师资料”即可领取。
 
 也可通过下面二维码找到公众号。
 
-<img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/202210231020314.jpg" alt="qrcode_for_gh_8d08add0e5a6_258" style="zoom: 67%;" />
+<img src="https://technotes.oss-cn-shenzhen.aliyuncs.com/2022/qrcode_for_gh_8d08add0e5a6_258.jpg" alt="qrcode_for_gh_8d08add0e5a6_258" style="zoom: 67%;" />
 
 如果网盘链接失效，可在公众号留言，我看到会发送新的链接给你。
 
